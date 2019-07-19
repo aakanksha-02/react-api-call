@@ -1,0 +1,15 @@
+.contact-card-wrap{
+  width: 70%;
+  height: 100vh;
+  margin: 0 auto;
+  border: 1px solid black;
+  overflow: scroll;
+  position: relative;
+}
+.contact-card-box{
+  width: 90%;
+  margin: 3% auto;
+  border: 1px solid black;
+  padding: 2%;
+  display: flex;
+}
